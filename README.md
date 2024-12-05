@@ -1,12 +1,11 @@
-Hi 👋 My name is Qi Sheng
+Hi 
 =========================
 
-Engineering Student
+Student
 -------------------
 
-I am pursuing my career in computer engineering
+I am pursuing my career in engineering
 
-* 🌍  I'm based in Malaysia
 * 🖥️  See my portfolio at [MyPortfolio](http://myapp.com)
 * ✉️  You can contact me at [qisheng220a@gmail.com](mailto:qisheng220a@gmail.com)
 * 🚀  I'm currently working on [MyApp](http://myapp.com)
