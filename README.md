@@ -6,12 +6,6 @@ Student
 
 I am pursuing my career in engineering
 
-* 🖥️  See my portfolio at [MyPortfolio](http://myapp.com)
-* ✉️  You can contact me at [qisheng220a@gmail.com](mailto:qisheng220a@gmail.com)
-* 🚀  I'm currently working on [MyApp](http://myapp.com)
-* 🧠  I'm learning C++
-* 🤝  I'm open to collaborating on Embedded Programming Project
-* ⚡  Zzz
 
 <a href="https://www.github.com/qs220a" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/qs220a?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
